@@ -34,3 +34,6 @@ Laporan Proyek berbasis Website
 
   <!(<img width="1062" height="411" alt="image" src="https://github.com/user-attachments/assets/4c138ec1-25eb-4c86-aff0-72a7c5b4e7f3" />
 
+  5. Menambahkan Commit kedalam Github
+  <!(<img width="1302" height="444" alt="image" src="https://github.com/user-attachments/assets/e3e50820-10cb-49d5-9448-4c6f2cc21fa6" />
+
