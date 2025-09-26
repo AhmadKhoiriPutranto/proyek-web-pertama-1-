@@ -8,6 +8,9 @@ Laporan Proyek berbasis Website
   C:\Users\ASUS>git --version
   git version 2.47.1.windows.1
 
+   <"![image](<img width="1051" height="336" alt="image" src="https://github.com/user-attachments/assets/08b7e357-44cc-4af2-8a0f-43f67e75a481" />
+)" >
+
   2. Step kedua adalah kita menentukan Username akun dan juga Email kita [Menggunakan Email Pribadi]
   C:\Users\ASUS>git config --global user.name "AhmadKhoiriPutranto"
   C:\Users\ASUS>git config --global user.email "khoiria536@gmail.com"
