@@ -37,3 +37,7 @@ Laporan Proyek berbasis Website
   5. Menambahkan Commit kedalam Github
   <!(<img width="1302" height="444" alt="image" src="https://github.com/user-attachments/assets/e3e50820-10cb-49d5-9448-4c6f2cc21fa6" />
 
+  6. Menambahkan Origin.main
+  <!(<img width="1143" height="313" alt="image" src="https://github.com/user-attachments/assets/b4f5e713-bb3a-4a6e-b4bc-91059da44421" />
+
+
