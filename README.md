@@ -1,5 +1,7 @@
 "# proyek-web-pertama-1-" 
 
+Laporan Pemograman Berbasis Web 1
+
 Nama : Ahmad Khoiri Putranto
 Npm : 4523210005
 
@@ -39,5 +41,44 @@ Laporan Proyek berbasis Website
 
   6. Menambahkan Origin.main
   <!(<img width="1143" height="313" alt="image" src="https://github.com/user-attachments/assets/b4f5e713-bb3a-4a6e-b4bc-91059da44421" />
+
+  --------------------------------------------
+  Laporan pemograman berbasis Web 2
+
+  Nama : Ahmad Khoiri Putranto
+
+  Npm : 4523210005
+
+  # Praktikum 1: Aplikasi PHP Dasar - Form Pendaftaran Event
+  Aplikasi ini dibuat untuk memenuhi tugas praktikum dasar PHP. Aplikasi ini
+  merupakan form pendaftaran sederhana untuk sebuah event fiktif.
+  
+  ## Deskripsi & Fitur
+  Aplikasi ini mencakup implementasi dari beberapa konsep dasar PHP, yaitu:
+  - **Variabel, Global Variabel, dan Konstanta**: Untuk menyimpan data dan
+  konfigurasi.
+  - **Fungsi**: Digunakan untuk modularisasi kode, khususnya untuk validasi.
+  - **Penanganan Form (POST)**: Menerima dan memproses data yang dikirim dari
+  form HTML.
+  - **Validasi dengan Regex**: Memastikan format input email dan tanggal
+  lahir (DD-MM-YYYY) sudah benar.
+  - **Operasi File**: Menyimpan setiap pendaftar yang valid ke dalam file
+  `pendaftar.txt`.
+  - **Menampilkan Data**: Membaca data dari `pendaftar.txt` dan
+  menampilkannya dalam bentuk tabel.
+  ## Tampilan Aplikasi
+  **Tampilan Awal Form**
+  *(Letakkan screenshot tampilan form kosong di sini)*
+  <!(<img width="1919" height="906" alt="image" src="https://github.com/user-attachments/assets/0d94bb1f-ed0a-4006-ac80-45ef703a7a4c" />
+
+  **Tampilan Setelah Pendaftaran Berhasil**
+  *(Letakkan screenshot tampilan setelah berhasil submit data di sini)*
+  !(<<img width="1148" height="215" alt="image" src="https://github.com/user-attachments/assets/fe29bbbb-78e2-4819-a302-67122a015134" />
+
+  
+  **Contoh Pesan Error Validasi**
+  *(Letakkan screenshot tampilan saat ada error validasi di sini)*
+  <!(<img width="1919" height="571" alt="image" src="https://github.com/user-attachments/assets/8ae5324d-ba83-4e67-ba49-0f4cf0d00e20" />
+
 
 
